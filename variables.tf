@@ -1,5 +1,5 @@
 variable "role_to_assume" {
-  description = "role arn for assume role"
+  description = "Name of role to assume (not ARN)"
   type        = string
 }
 
